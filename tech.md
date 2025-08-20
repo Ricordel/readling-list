@@ -6,3 +6,7 @@
 # Techniques
 
 - [Some tips to achieve idempotency](https://lightfoot.dev/why-arent-you-idempotent)
+
+# Curated lists
+
+- [Privacy-oriented alternatives to many services](https://github.com/pluja/awesome-privacy?tab=readme-ov-file)
