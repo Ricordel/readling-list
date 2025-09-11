@@ -10,3 +10,7 @@
 # Curated lists
 
 - [Privacy-oriented alternatives to many services](https://github.com/pluja/awesome-privacy?tab=readme-ov-file)
+- [Self-hosted apps](https://selfh.st/apps/)
+
+# Hardware
+[Very detailed about storage latency](https://planetscale.com/blog/io-devices-and-latency)
