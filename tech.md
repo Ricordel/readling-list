@@ -7,6 +7,11 @@
 
 - [Some tips to achieve idempotency](https://lightfoot.dev/why-arent-you-idempotent)
 
+# Practice, soft skills, ...
+
+- [What actually makes you a senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
+    - TL;DR : reduce ambiguity, plan, de-risk. _Then_ and only then using your technical skills
+
 # Curated lists
 
 - [Privacy-oriented alternatives to many services](https://github.com/pluja/awesome-privacy?tab=readme-ov-file)
