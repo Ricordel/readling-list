@@ -11,6 +11,10 @@
 
 that should be in golden letters in all and every software engineering office. I want T-shirts and mugs.
 
+## Algorithms & data structure
+
+- [Very didactic and visual explanations of quad-trees](https://growingswe.com/blog/quadtrees)
+
 # Practice, soft skills, ...
 
 - [What actually makes you a senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
