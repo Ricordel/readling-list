@@ -28,4 +28,8 @@ that should be in golden letters in all and every software engineering office. I
 - [Self-hosted apps](https://selfh.st/apps/)
 
 # Hardware
-[Very detailed about storage latency](https://planetscale.com/blog/io-devices-and-latency)
+- [Very detailed about storage latency](https://planetscale.com/blog/io-devices-and-latency)
+
+# Tools
+
+- [AI models fit to GPU model](https://www.canirun.ai/device/rtx-a6000)
