@@ -14,6 +14,8 @@ that should be in golden letters in all and every software engineering office. I
 ## Algorithms & data structure
 
 - [Very didactic and visual explanations of quad-trees](https://growingswe.com/blog/quadtrees)
+- [Probabilistic fair queuing N users on a fixed number of queues](https://brooker.co.za/blog/2026/02/25/sfq.html)
+- [Shuffle sharding](https://aws.amazon.com/blogs/architecture/shuffle-sharding-massive-and-magical-fault-isolation/), i.e how to probabilistically de-correlate faults between customers with just a bit of per-customer controlled randomness
 
 # Practice, soft skills, ...
 
