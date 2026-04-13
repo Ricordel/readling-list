@@ -21,6 +21,7 @@ that should be in golden letters in all and every software engineering office. I
 
 - [What actually makes you a senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
     - TL;DR : reduce ambiguity, plan, de-risk. _Then_ and only then using your technical skills
+- [A few git commands to get a glimpse on a repo](https://piechowski.io/post/git-commands-before-reading-code/)
 
 # Curated lists
 
