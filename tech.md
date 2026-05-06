@@ -28,6 +28,7 @@ that should be in golden letters in all and every software engineering office. I
 
 - [Privacy-oriented alternatives to many services](https://github.com/pluja/awesome-privacy?tab=readme-ov-file)
 - [Self-hosted apps](https://selfh.st/apps/)
+- [Summary of all SE "laws"](https://newsletter.techworld-with-milan.com/p/the-20-software-engineering-laws)
 
 # Hardware
 - [Very detailed about storage latency](https://planetscale.com/blog/io-devices-and-latency)
