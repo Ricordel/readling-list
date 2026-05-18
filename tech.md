@@ -24,6 +24,10 @@ that should be in golden letters in all and every software engineering office. I
     - TL;DR : reduce ambiguity, plan, de-risk. _Then_ and only then using your technical skills
 - [A few git commands to get a glimpse on a repo](https://piechowski.io/post/git-commands-before-reading-code/)
 
+## Practice around AI
+### 2026
+- [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055). On why it's now more easy than ever using "harder" languages like Rust rather than sloppy ones like Python
+
 # Curated lists
 
 - [Privacy-oriented alternatives to many services](https://github.com/pluja/awesome-privacy?tab=readme-ov-file)
