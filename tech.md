@@ -11,6 +11,7 @@
 > Duplication is cheaper than the wrong abstraction.
 
 that should be in golden letters in all and every software engineering office. I want T-shirts and mugs.
+- [Concise enough yet clean and exhaustive example of state machines in .NET+EFCore](https://adrianbailador.github.io/blog/59-trip-state-machine-dotnet/)
 
 ## Algorithms & data structure
 
