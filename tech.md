@@ -9,6 +9,7 @@
 - [Some tips to achieve idempotency](https://lightfoot.dev/why-arent-you-idempotent)
 - [Sur les vertical slices](https://www.milanjovanovic.tech/blog/vertical-slice-architecture-where-does-the-shared-logic-live), not so much for the article in itself (which is good but not revolutionary), but for the mantra
 > Duplication is cheaper than the wrong abstraction.
+- [Make ethernet really fast on Linux](https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/)
 
 that should be in golden letters in all and every software engineering office. I want T-shirts and mugs.
 - [Concise enough yet clean and exhaustive example of state machines in .NET+EFCore](https://adrianbailador.github.io/blog/59-trip-state-machine-dotnet/)
