@@ -2,6 +2,7 @@
 
 - [Everything I know about good system design by Sean Goedecke](https://www.seangoedecke.com/good-system-design)
 - [Writing a good design doc](https://grantslatton.com/how-to-design-document)
+- [Write an effective design doc](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/) - concentrating on what should and should not be inside
 - [Don't expose too much in your API](https://yusufaytas.com/good-apis-age-slowly). Just common sense saying that whatever you expose is public, yet it's well said.
 
 # Techniques
